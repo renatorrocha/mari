@@ -1,9 +1,0 @@
-.movable-button {
-    position: relative;
-    transition: transform 0.2s ease-in-out;
-  }
-  
-  .movable-button.hovered {
-    transform: translate(10px, -10px); /* Adicione a transformação que você deseja */
-  }
-  
